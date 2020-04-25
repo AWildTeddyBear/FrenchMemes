@@ -1,4 +1,4 @@
-# A really stupid meme written in python
+# A really stupid meme written in python (click for video demo)
 [![French Meme Github](https://img.youtube.com/vi/sWGjIyjDebk/0.jpg)](https://www.youtube.com/watch?v=sWGjIyjDebk "French Meme Github")
 
 ## I really don't know why I made this
