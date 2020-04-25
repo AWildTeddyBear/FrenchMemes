@@ -8,6 +8,13 @@ Feel free to make it better if you so desire.
 # Use auto-py-to-exe to compile for Windows
 [You can view more information here](https://pypi.org/project/auto-py-to-exe/)
 
+
+#### Technical details on what it does:
+* Plays a song in the background (honhon.mp3) in a thread
+* Spawns a window with a dog that is too amazing for this world and he must show it (Dunce.png)
+* Copies about 500 baguette army infantrymen into wherver the exe was launched from (baguette.png)
+* Promises not to rickroll you if you look at the credits below
+
 ### Author:
 AWildTeddyBear (Sgt. Cuddles#0001)
 
